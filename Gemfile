@@ -107,3 +107,5 @@ gem 'font-awesome-sass', '~> 5.0'
 
 gem 'kaminari'
 gem 'kaminari-bootstrap'
+
+gem 'rails-controller-testing'

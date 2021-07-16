@@ -3,9 +3,9 @@
 one:
   summary: MyString
   uid: MyString
-  github_issue: MyString
+  github_issue: issue_one
 
 two:
   summary: MyString
   uid: MyString
-  github_issue: MyString
+  github_issue: issue_two
